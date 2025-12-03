@@ -1,0 +1,9 @@
+klajdflkads fsdfkjd lfdsjf sdklfjdsk;lfjGT is a good company
+GT file changes from GIT repo
+<<<<<<< Updated upstream
+
+
+working on story 2
+=======
+working on story 1
+>>>>>>> Stashed changes
